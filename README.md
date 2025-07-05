@@ -2,6 +2,12 @@
 
 Este projeto contém um aplicativo web simples construído com Streamlit, uma biblioteca Python que permite criar interfaces de usuário interativas para análise de dados e machine learning de forma rápida. O objetivo é demonstrar as funcionalidades básicas e o potencial do Streamlit para transformar scripts Python em aplicações web amigáveis.
 
+<img width="1914" height="954" alt="Image" src="https://github.com/user-attachments/assets/ebc3f15f-e14b-4102-a6f6-9ef21412c5aa" />
+
+<img width="1913" height="941" alt="Image" src="https://github.com/user-attachments/assets/27c8ec2b-aecf-4201-b46b-1886a0f7c1e0" />
+
+<img width="1910" height="940" alt="Image" src="https://github.com/user-attachments/assets/8801d86e-132f-472b-b08d-f4f535a3ff52" />
+
 ## Visão Geral
 
 O aplicativo `app.py` é um exemplo didático que mostra como:
